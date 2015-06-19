@@ -1,2 +1,2 @@
 # first-repo
-Uprising First Repo
+Uprising First Test Repo
